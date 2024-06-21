@@ -20,7 +20,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-CSS" height="150" width="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndpZ20xM2FmbnhlNHNtemVpdnlpeWZ2OG9nYnppYzFjN3J2OHlzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
   
   ##
@@ -35,8 +34,8 @@
 
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRobertoSousa&show_icons=true&count_private=true&hide_border=true&title_color=00A31E&icon_color=33d9b2&text_color=706fd3&bg_color=ffffff00" alt="Gustavo Teodoro Gabilan github stats" /> 
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRobertoSousa&layout=compact&hide_border=true&title_color=00A31E&text_color=C0C0C0&bg_color=ffffff00" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRobertoSousa&show_icons=true&count_private=true&hide_border=true&title_color=00A31E&icon_color=33d9b2&text_color=706fd3&bg_color=ffffff00" alt="Gustavo Teodoro Gabilan github stats" /> 
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRobertoSousa&layout=compact&hide_border=true&title_color=00A31E&text_color=C0C0C0&bg_color=ffffff00" />
 </div>
 
 <div> 
