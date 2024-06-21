@@ -35,8 +35,8 @@
 
 
 <div align="center">  
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRobertoSousa&show_icons=true&count_private=true&hide_border=true&title_color=00A31E&icon_color=33d9b2&text_color=706fd3&bg_color=ffffff00" alt="Gustavo Teodoro Gabilan github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRobertoSousa&layout=compact&hide_border=true&title_color=00A31E&text_color=C0C0C0&bg_color=ffffff00" />
+  <img width="20%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRobertoSousa&show_icons=true&count_private=true&hide_border=true&title_color=00A31E&icon_color=33d9b2&text_color=706fd3&bg_color=ffffff00" alt="Gustavo Teodoro Gabilan github stats" /> 
+  <img width="20%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRobertoSousa&layout=compact&hide_border=true&title_color=00A31E&text_color=C0C0C0&bg_color=ffffff00" />
 </div>
 
 <div> 
