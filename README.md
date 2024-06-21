@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A31E&height=120&section=header"/>
+
 ## Olá, Eu sou o Matheus Roberto Sousa 👋
 
 <div align="center">
@@ -5,9 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A31E&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-
-
-
 
 - 🌱 Estudando Back-end
 - 👯 Estou Buscando colaborar em projetos de programação em Java
@@ -34,10 +33,8 @@
 </div>
 
 <div> 
-  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRobertoSousa&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRobertoSousa&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -47,10 +44,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusRobertoSousa/MatheusRobertoSousa/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-
-
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A31E&height=120&section=footer"/>
 
