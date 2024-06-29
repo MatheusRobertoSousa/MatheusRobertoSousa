@@ -9,7 +9,7 @@
 </div>
 
 - 🌱 Estudando Back-end
-- 👯 Estou Buscando colaborar em projetos de programação em Java
+- 👯 Estou Buscando colaborar em projetos de programação em Java e Python
 - 📫 Contate-me no e-mail: matheus.roberto2020s@gmail.com
 
 ## Linguagens:
