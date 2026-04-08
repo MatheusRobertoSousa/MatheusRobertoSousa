@@ -25,8 +25,6 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCfspq9kzWHIA0ixCBjgZKjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/matheusroberto.ss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.roberto2020s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-roberto-94a046207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -34,7 +32,7 @@
 
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRobertoSousa&show_icons=true&count_private=true&hide_border=true&title_color=00A31E&icon_color=33d9b2&text_color=706fd3&bg_color=ffffff00" alt="Gustavo Teodoro Gabilan github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusRobertoSousa&show_icons=true&count_private=true&hide_border=true&title_color=00A31E&icon_color=33d9b2&text_color=706fd3&bg_color=ffffff00" alt="." /> 
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRobertoSousa&layout=compact&hide_border=true&title_color=00A31E&text_color=C0C0C0&bg_color=ffffff00" />
 </div>
 
